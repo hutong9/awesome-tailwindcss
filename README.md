@@ -45,6 +45,7 @@
 - 💙 [Tailwind UI](https://tailwindui.com) - Component library made with Tailwind CSS.
 - 💙 [Headless UI](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components.
 - 💙 [Heroicons](https://heroicons.com/) - Beautiful, hand-crafted SVG icons.
+- 💙 [Nuxt Tailwind](https://tailwindcss.nuxtjs.org/) - This module helps you set up Tailwind CSS (version 3) in your Nuxt 3 application in seconds.
 - 💙 [Play](https://play.tailwindcss.com/) - Advanced online playground for Tailwind CSS.
 - 💙 [Just-in-time](https://github.com/tailwindlabs/tailwindcss-jit) - Just-in-time compiler for Tailwind CSS.
 - [Tailwind Weekly](https://tailwindweekly.com/) - Weekly newsletter about all things Tailwind CSS.
